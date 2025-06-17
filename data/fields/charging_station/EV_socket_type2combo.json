@@ -1,0 +1,10 @@
+{
+    "key": "socket:type2combo",
+    "type": "text",
+    "label": "CCS2 (type12ombo)",
+    "placeholder": "Amount of sockets",
+    "prerequisiteTag": {
+        "key": "socket:type2combo",
+        "valueNot": "no"
+    }
+}
