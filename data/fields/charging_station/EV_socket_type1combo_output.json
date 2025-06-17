@@ -1,0 +1,10 @@
+{
+    "key": "socket:type1combo:output",
+    "type": "text",
+    "label": "CCS1 (type1combo)",
+    "placeholder": "Power in kW",
+    "prerequisiteTag": {
+        "key": "socket:type1combo",
+        "valueNot": "no"
+    }
+}
