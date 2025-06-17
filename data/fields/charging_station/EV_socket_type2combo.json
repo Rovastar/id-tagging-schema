@@ -1,7 +1,7 @@
 {
     "key": "socket:type2combo",
     "type": "text",
-    "label": "CCS2 (type2combo)",
+    "label": "Socket: CCS2 (type2combo)",
     "placeholder": "Amount of sockets",
     "prerequisiteTag": {
         "key": "socket:type2combo",
