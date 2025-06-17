@@ -1,0 +1,19 @@
+{
+    "key": "socket:",
+    "type": "multiCombo",
+    "label": "EV Socket (Plug) Type",
+    "strings": {
+        "options": {
+            "socket:type1combo": "CCS1 (type1combo)",
+            "socket:type2combo": "CCS2 (type2combo)",
+            "socket:chademo": "CHAdeMO (chademo)",
+            "socket:nacs": "NACS (nacs)",
+            "socket:type1": "Type 1",
+            "socket:type2cable": "Type 2 - Attached cable (type2cable)"
+            "socket:type2": "Type 2 - No cable (type2)"
+            "socket:gbdc": "GB/T DC (gbdc)",
+            "socket:gbac": "GB/T AC (gbac)",
+            "socket:chademo": "Schuko"
+        }
+    }
+}
