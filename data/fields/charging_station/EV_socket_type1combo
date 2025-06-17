@@ -1,0 +1,10 @@
+{
+    "key": "socket:type1combo",
+    "type": "text",
+    "label": "CCS1 (type1combo)",
+    "placeholder": "Amount of sockets",
+    "prerequisiteTag": {
+        "key": "socket:type1combo",
+        "valueNot": "no"
+    }
+}
