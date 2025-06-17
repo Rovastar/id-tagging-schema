@@ -7,6 +7,8 @@
         "EV_sockets_multi",
         "EV_socket_type1combo",
         "EV_socket_type1combo_output",
+        "EV_socket_type2combo",
+        "EV_socket_type2combo_output",
         "access_simple",
         "fee",
         "payment_multi_fee",
